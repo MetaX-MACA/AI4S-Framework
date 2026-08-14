@@ -16,6 +16,7 @@
 | **[DeepXDE](https://github.com/MetaX-MACA/AI4S-Framework/tree/main/DeepXDE)** | AI框架（科学计算） | 物理信息神经网络（PINN）求解偏微分方程，支持多种后端（PyTorch, PaddlePaddle等）。 | 计算流体力学、固体力学、传热学等物理场模拟与反问题求解。 |
 | **[PaddleScience](https://github.com/MetaX-MACA/AI4S-Framework/tree/main/PaddleScience)** | AI框架（科学计算套件） | 基于飞桨（PaddlePaddle）的科学计算套件，支持物理机理驱动、数据驱动及数理融合求解方式。 | 流体仿真、材料设计、地球科学、天气预报等复杂工程与科学问题。 |
 | **[PhysicsNeMo](https://github.com/MetaX-MACA/AI4S-Framework/tree/main/PhysicsNeMo)** | AI框架（科学计算） | 物理信息与数据驱动的 AI 物理仿真深度学习框架，支持神经算子、GNN、Transformer、PINN 等多种建模范式。 | 计算流体力学、天气气候、分子动力学、地球科学等物理场模拟与预测。 |
+| **[NeuralOperator](https://github.com/MetaX-MACA/AI4S-Framework/tree/main/NeuralOperator)** | AI框架（科学计算） | 面向 PDE 与连续物理场建模的 Operator Learning 框架，提供 FNO、TFNO 等神经算子模型，用于学习输入物理场、参数场或初边值条件到输出解场之间的映射。| 流体、传热、结构、气象等 PDE 问题的代理建模、场预测和快速推理，也是 AI4S 中 Operator Learning 的重要基础框架。|
 
 
 >更多框架和应用正在持续适配与添加中，敬请关注。
